@@ -1,0 +1,14 @@
+.pagination {
+    margin-bottom: 20px !important;
+}
+
+.img {
+    width: 290px;
+    height: 192px;
+    cursor: pointer;
+}
+
+.modal_img {
+    width: 647px;
+    height: 247px;
+}
